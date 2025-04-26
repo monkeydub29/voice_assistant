@@ -1,0 +1,15 @@
+# Ignore virtual environment folder
+alex_env/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore audio files (mp3, etc.)
+*.mp3
+
+# Ignore temporary files and zip
+*.zip
+
+# Ignore environment files
+.env
